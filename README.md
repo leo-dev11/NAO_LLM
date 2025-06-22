@@ -2,7 +2,7 @@
 # NAO LLM Integration Project
 An implementation of an LLM API to the robot NAO H25 (V6)
 
-![NAO](media/nao.jpg)
+<img src="media/nao.jpg" alt="NAO" width="300" height="500">
 
 ## 1. Implemented Objective
 
